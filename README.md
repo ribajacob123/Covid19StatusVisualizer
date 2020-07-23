@@ -1,4 +1,4 @@
-## Coronavirus Country wise status visualizer
+## Corona-virus Country wise status visualizer
 
 React JS project which demonstrates the updated coronavirus statuses of all the countries. The live status is fetched by an API call.
 
