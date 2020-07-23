@@ -1,6 +1,6 @@
 ## Coronavirus Country wise status visualizer
 
-React JS project which demonstrates the updated coronavirus statuses of all the countries. The live status is fetched by an api call.
+React JS project which demonstrates the updated coronavirus statuses of all the countries. The live status is fetched by an API call.
 
 ### Screenshots of the application
 
@@ -9,6 +9,6 @@ React JS project which demonstrates the updated coronavirus statuses of all the 
 <img src = "Coviddemo2.png">
 
 
-## API URL 
+## API URL
 
 https://api.covid19api.com/
